@@ -5,3 +5,7 @@ Personal Portfolio Description: Designed and built a personal portfolio website 
 Key Features:
 
 Smooth animations with Framer Motion Modern design with Tailwind CSS Showcases professional skills and projects
+
+
+
+![Screenshot (18)](https://github.com/user-attachments/assets/46d435bb-12ad-4f08-99f6-6929aba12d19)
